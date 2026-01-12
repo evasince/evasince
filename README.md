@@ -1,16 +1,11 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=b8n4rleidn19uq4iuqn1jkwqk&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=ffffff&bar_color_cover=false">
+  </a>
+</p>
+‎ ‎ 
+<p align="center">
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/0e756ef7-08f3-459a-ba2c-74c95c745397" />
+   </p>
 
-<!--
-**evasince/evasince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/57093fd2-eeee-42e4-8881-4c2dc609ed57" />
